@@ -9,12 +9,12 @@ public class SumOfPowersOfThree {
 
     Input: n = 12
     Output: true
-    Explanation: 12 = 31 + 32
+    Explanation: 12 = 3^1 + 3^2
     Example 2:
 
     Input: n = 91
     Output: true
-    Explanation: 91 = 30 + 32 + 34
+    Explanation: 91 = 3^0 + 3^2 + 3^4
     Example 3:
 
     Input: n = 21
